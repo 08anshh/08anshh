@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @08anshh
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Python
 - 📫 How to reach me, 8433292781
 
 <!---
